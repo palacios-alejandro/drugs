@@ -1,0 +1,114 @@
+[
+    {
+        "applicants": [
+            "Tersera Therapeutics Llc"
+        ],
+        "atc_classification": [
+            {
+                "code": "A04AD14",
+                "description": "ALIMENTARY TRACT AND METABOLISM: ANTIEMETICS AND ANTINAUSEANTS: ANTIEMETICS AND ANTINAUSEANTS: Other antiemetics"
+            }
+        ],
+        "availability_type": 1,
+        "biotherapeutic": null,
+        "black_box": 0,
+        "black_box_warning": "0",
+        "chirality": 1,
+        "drug_type": 1,
+        "first_approval": 2015,
+        "first_in_class": 0,
+        "helm_notation": null,
+        "indication_class": null,
+        "max_phase": "4.0",
+        "molecule_chembl_id": "CHEMBL3707331",
+        "molecule_properties": {
+            "alogp": "5.73",
+            "aromatic_rings": 2,
+            "cx_logd": "4.05",
+            "cx_logp": "5.00",
+            "cx_most_apka": null,
+            "cx_most_bpka": "8.30",
+            "full_molformula": "C25H26F6N2O2",
+            "full_mwt": "500.48",
+            "hba": 3,
+            "hba_lipinski": 4,
+            "hbd": 2,
+            "hbd_lipinski": 2,
+            "heavy_atoms": 35,
+            "molecular_species": "NEUTRAL",
+            "mw_freebase": "500.48",
+            "mw_monoisotopic": "500.1898",
+            "np_likeness_score": "-0.10",
+            "num_lipinski_ro5_violations": 2,
+            "num_ro5_violations": 2,
+            "psa": "50.36",
+            "qed_weighted": "0.52",
+            "ro3_pass": "N",
+            "rtb": 5
+        },
+        "molecule_structures": {
+            "canonical_smiles": "C[C@@H](OC[C@@]1(c2ccccc2)CC[C@]2(CCC(=O)N2)CN1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+            "molfile": "\n     RDKit          2D\n\n 35 38  0  0  0  0  0  0  0  0999 V2000\n   -0.3341   -0.8456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.0486   -1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.0486   -2.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3341   -2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3804   -2.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3804   -1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3341   -0.0206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3804    0.3919    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.0486    0.3919    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3341    0.8044    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0949   -2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8093   -2.0831    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0948   -3.3206    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8093   -2.9081    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7631   -2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4776   -2.0831    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7631   -3.3206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1920   -2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9065   -2.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.6210   -2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1920   -0.8456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9065   -0.4331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.6210   -0.8456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.6210   -1.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1920   -1.6706    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.1840    0.8726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5195    0.1189    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1920   -0.0206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.3635    0.7863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5965    1.5871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.3355   -2.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.0499   -2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.0499   -3.3206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.3354   -3.7331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.6210   -3.3206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  6  2  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  1  7  1  0\n  7  8  1  0\n  7  9  1  0\n  7 10  1  0\n  5 11  1  0\n 11 12  1  0\n 11 13  1  0\n 11 14  1  0\n  3 15  1  0\n 15 16  1  0\n 15 17  1  1\n 16 18  1  0\n 19 18  1  1\n 19 20  1  0\n 24 19  1  0\n 19 25  1  0\n 21 22  1  0\n 22 23  1  0\n 23 24  1  0\n 25 21  1  0\n 22 27  1  1\n 22 28  1  0\n 26 27  1  0\n 28 29  1  0\n 26 29  1  0\n 26 30  2  0\n 20 31  1  0\n 20 35  2  0\n 31 32  2  0\n 32 33  1  0\n 33 34  2  0\n 34 35  1  0\nM  END\n",
+            "standard_inchi": "InChI=1S/C25H26F6N2O2/c1-16(17-11-19(24(26,27)28)13-20(12-17)25(29,30)31)35-15-23(18-5-3-2-4-6-18)10-9-22(14-32-23)8-7-21(34)33-22/h2-6,11-13,16,32H,7-10,14-15H2,1H3,(H,33,34)/t16-,22-,23-/m1/s1",
+            "standard_inchi_key": "FIVSJYGQAIEMOC-ZGNKEGEESA-N"
+        },
+        "molecule_synonyms": [
+            {
+                "molecule_synonym": "Rolapitant",
+                "syn_type": "ATC",
+                "synonyms": "ROLAPITANT"
+            },
+            {
+                "molecule_synonym": "Rolapitant",
+                "syn_type": "BNF",
+                "synonyms": "ROLAPITANT"
+            },
+            {
+                "molecule_synonym": "Rolapitant",
+                "syn_type": "INN",
+                "synonyms": "ROLAPITANT"
+            },
+            {
+                "molecule_synonym": "Rolapitant",
+                "syn_type": "MERCK_INDEX",
+                "synonyms": "ROLAPITANT"
+            },
+            {
+                "molecule_synonym": "Rolapitant",
+                "syn_type": "OTHER",
+                "synonyms": "ROLAPITANT"
+            },
+            {
+                "molecule_synonym": "Rolapitant",
+                "syn_type": "USAN",
+                "synonyms": "ROLAPITANT"
+            },
+            {
+                "molecule_synonym": "Varuby",
+                "syn_type": "TRADE_NAME",
+                "synonyms": "VARUBY"
+            }
+        ],
+        "ob_patent": "7049320",
+        "oral": 1,
+        "parenteral": 0,
+        "prodrug": 0,
+        "research_codes": [
+            "SCH-619734",
+            "SCH619734"
+        ],
+        "rule_of_five": 0,
+        "sc_patent": "US-7049320-B2",
+        "synonyms": [
+            "Rolapitant hydrochloride (MI, USAN)",
+            "Rolapitant (INN, MI, USAN)",
+            ""
+        ],
+        "topical": 0,
+        "usan_stem": "-tant",
+        "usan_stem_definition": "tachykinin (neurokinin) receptor antagonists: NK1 receptor antagonists",
+        "usan_stem_substem": "-tant(-tant (-pitant))",
+        "usan_year": 2005,
+        "withdrawn_flag": "0"
+    }
+]
